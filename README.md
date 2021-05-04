@@ -5,13 +5,13 @@ I have used this dataset : https://www.kaggle.com/moneyshot495/duygu-analizi?sel
 
 I have used several Turkish word embeddings to obtain higher score for my model. I leave links below, you can reach and try.
 
-glove : https://github.com/inzva/Turkish-GloVe
+-> glove : https://github.com/inzva/Turkish-GloVe
 
-word2vec : https://github.com/akoksal/Turkish-Word2Vec
+-> word2vec : https://github.com/akoksal/Turkish-Word2Vec
 
-word2vec-doc2vec-fasttext : https://github.com/hakkiyagiz/SIU2019
+-> word2vec-doc2vec-fasttext : https://github.com/hakkiyagiz/SIU2019
 
-fasttext : https://fasttext.cc/docs/en/crawl-vectors.html
+-> fasttext : https://fasttext.cc/docs/en/crawl-vectors.html
 
 
 
